@@ -1,4 +1,4 @@
-# Teaching-Affair-Management-System
+# Teaching-Management-System
 
 - The system is designed to improve the work efficiency of educational administration in modern colleges and universities.
 - Administrators, professors, and students can easily use their own functions.
